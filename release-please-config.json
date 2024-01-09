@@ -4,6 +4,8 @@
     ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "ruby",
+      "component": "foodie",
+      "package-name": "foodie",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
