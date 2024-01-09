@@ -1,0 +1,8 @@
+{
+    "release-type": "ruby",
+    "packages": {
+      ".": {
+        "component": "foodie"
+      }
+    }
+  }
